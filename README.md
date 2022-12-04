@@ -23,4 +23,4 @@ Setelah dilakukan analisis prediktif, maka dapat dilakukan analisis prescriptive
   
 Akses Tableau : [link](https://public.tableau.com/app/profile/afifah3349/viz/ProjectTDSN-RotiBakarTeam-2022/Dashboard1?publish=yes)
 
-![Alt text]
+![Alt text](Analisis-Segmentasi-UMKM-Jawa-Barat/Dashboard1.png)
